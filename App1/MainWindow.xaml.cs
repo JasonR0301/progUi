@@ -30,6 +30,7 @@ namespace App1
 
         private void myButton_Click(object sender, RoutedEventArgs e)
         {
+            //commentaire github
             myButton.Content = "Clicked";
         }
     }
